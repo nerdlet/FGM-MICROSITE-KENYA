@@ -4,7 +4,7 @@ date: 2018-02-05 00:00:00 Z
 permalink: breaking-the-curse
 categories:
 - fgmstories
-breaking-the-curse: 
+breaking-the-curse: fgm-stories
 layout: post
 ---
 
