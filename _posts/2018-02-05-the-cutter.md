@@ -1,7 +1,9 @@
 ---
 title: The Cutter
+date: 2018-02-05 00:00:00 Z
 permalink: the-cutter
-categories: fgmstories
+categories:
+- fgmstories
 layout: post
 ---
 

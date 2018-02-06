@@ -1,7 +1,9 @@
 ---
 title: Kenyan man who dares challenge female circumcision
+date: 2018-02-05 00:00:00 Z
 permalink: kenyan-man-who-dares
-categories: fgmstories
+categories:
+- fgmstories
 layout: post
 ---
 
