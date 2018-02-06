@@ -1,9 +1,10 @@
 ---
-layout: "post"
-title: "Bridging the gap"
-categories: fgmstories
+title: Bridging the gap
+date: 2018-02-05 00:00:00 Z
 permalink: bridging-the-gap
-
+categories:
+- fgmstories
+layout: post
 ---
 
 Bridging the Gap   

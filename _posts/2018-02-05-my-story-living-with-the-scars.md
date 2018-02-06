@@ -1,8 +1,10 @@
 ---
-layout: "post"
-title: "My story living with the scars"
-categories: fgmstories
+title: My story living with the scars
+date: 2018-02-05 00:00:00 Z
 permalink: my-story-living-with-the-scars
+categories:
+- fgmstories
+layout: post
 ---
 
 My story; Living with the scars

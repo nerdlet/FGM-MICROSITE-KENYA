@@ -1,8 +1,10 @@
 ---
-layout: "post"
-title: "the season of the cut"
-categories: fgmstories
+title: the season of the cut
+date: 2018-02-05 00:00:00 Z
 permalink: the-season-of-the-cut
+categories:
+- fgmstories
+layout: post
 ---
 
 The season of the cut
