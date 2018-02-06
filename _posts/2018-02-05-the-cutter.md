@@ -1,8 +1,10 @@
 ---
-ayout: "post"
-title: "The Cutter"
-categories: fgmstories
+title: The Cutter
+date: 2018-02-05 00:00:00 Z
 permalink: the-cutter
+categories:
+- fgmstories
+ayout: post
 ---
 
 THE CUTTER

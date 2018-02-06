@@ -1,8 +1,10 @@
 ---
-layout: "post"
-title: "the-life-giver"
-categories: fgmstories
+title: the-life-giver
+date: 2018-02-05 00:00:00 Z
 permalink: the-life-giver
+categories:
+- fgmstories
+layout: post
 ---
 
 The Life Giver: TBAs
