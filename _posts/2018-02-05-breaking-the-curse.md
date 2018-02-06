@@ -1,9 +1,10 @@
 ---
-title: Breaking the post
+title: Breaking the curse
 date: 2018-02-05 00:00:00 Z
 permalink: breaking-the-curse
 categories:
 - fgmstories
+breaking-the-curse: 
 layout: post
 ---
 
