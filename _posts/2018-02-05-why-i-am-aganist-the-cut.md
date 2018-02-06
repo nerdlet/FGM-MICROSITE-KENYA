@@ -1,9 +1,7 @@
 ---
 title: why i am aganist the cut
-date: 2018-02-05 00:00:00 Z
 permalink: why-i-am-aganist-the cut
-categories:
-- fgmstories
+categories: fgmstories
 layout: post
 ---
 
